@@ -9,10 +9,15 @@ Olá! Me chamo Wallace, tenho 18 anos e faço curso de desenvolvedor Full Stack 
 
 ## 🛠 Habilidades
 Javascript
+
 HTML
+
 CSS
+
 React
+
 Node.js
+
 
 
 ## Outras seções comuns em perfis do GitHub
