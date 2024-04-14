@@ -4,7 +4,7 @@
 
 
 ## 🚀 Sobre mim
-Olá! Me chamo Wallace, tenho 18 anos e faço curso de desenvolvedor Full Stack javacript. Estou ingressando na carreira de programação e aqui disponibilizo os meus materiais de estudo e aperfeiçoamento pessoal!.
+Olá! Me chamo Wallace, tenho 18 anos e faço curso de desenvolvedor Full Stack. Estou ingressando na carreira de programação e aqui disponibilizo os meus materiais de estudo e aperfeiçoamento pessoal!.
 
 
 ## 🛠 Habilidades
@@ -34,8 +34,6 @@ Node.js
 📫 Como entrar em contato comigo - wallace.nsantos1@senacsp.edu.br ...
 
 😄 Pronomes Ele|Dele...
-
-⚡️ Fatos engraçados...
 
 
 ## 🔗 Links
